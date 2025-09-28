@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "C:/Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../../seven_segment_display.srcs/sources_1/new/seven_segment_display.v" \
+"../../../../seven_segment_display.srcs/sim_1/new/tb_seven_segment_display.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

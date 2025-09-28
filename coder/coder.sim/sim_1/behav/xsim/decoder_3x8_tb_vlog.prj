@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "C:/Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../../coder.srcs/sources_1/new/decoder.v" \
+"../../../../coder.srcs/sources_1/new/decoder_3x8.v" \
+"../../../../coder.srcs/sim_1/new/decoder_3x8_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

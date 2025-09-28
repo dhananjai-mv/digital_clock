@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "S:/digital_clock/digital_clk.srcs/sources_1/new/digital_clock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module digital_clock
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'sec' is not allowed [S:/digital_clock/digital_clk.srcs/sources_1/new/digital_clock.v:24]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'hr' is not allowed [S:/digital_clock/digital_clk.srcs/sources_1/new/digital_clock.v:25]
+INFO: [VRFC 10-2263] Analyzing Verilog file "S:/digital_clock/digital_clk.srcs/sim_1/new/tb_digital_clock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_digital_clock

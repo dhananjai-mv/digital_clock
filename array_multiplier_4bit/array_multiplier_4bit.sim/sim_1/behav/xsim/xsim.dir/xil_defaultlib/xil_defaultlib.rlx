@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+S:/Verilog/array_multiplier_4bit/array_multiplier_4bit.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+S:/Verilog/array_multiplier_4bit/array_multiplier_4bit.srcs/sim_1/new/tb_array_multiplier.v,1758618681,verilog,,,,tb_array_multiplier,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+S:/Verilog/array_multiplier_4bit/array_multiplier_4bit.srcs/sources_1/new/array_multiplier.v,1758615316,verilog,,S:/Verilog/array_multiplier_4bit/array_multiplier_4bit.srcs/sources_1/new/full_adder.v,,array_multiplier,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+S:/Verilog/array_multiplier_4bit/array_multiplier_4bit.srcs/sources_1/new/full_adder.v,1758618173,verilog,,S:/Verilog/array_multiplier_4bit/array_multiplier_4bit.srcs/sim_1/new/tb_array_multiplier.v,,full_adder,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

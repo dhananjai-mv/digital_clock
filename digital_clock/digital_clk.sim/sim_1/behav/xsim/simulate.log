@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+$finish called at time : 100500 ms : File "S:/digital_clock/digital_clk.srcs/sim_1/new/tb_digital_clock.v" Line 22
+$finish called at time : 201 s : File "S:/digital_clock/digital_clk.srcs/sim_1/new/tb_digital_clock.v" Line 22
+$finish called at time : 301500 ms : File "S:/digital_clock/digital_clk.srcs/sim_1/new/tb_digital_clock.v" Line 22
+$finish called at time : 402 s : File "S:/digital_clock/digital_clk.srcs/sim_1/new/tb_digital_clock.v" Line 22

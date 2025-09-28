@@ -1,0 +1,11 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+S:/Verilog/2x1_mux behavioral/2x1_mux behavioral.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+,,,,,,tb_full_adder,,,,,,,,
+S:/Verilog/2x1_mux behavioral/2x1_mux behavioral.srcs/sim_1/new/tb_half_adder.v,1756199565,verilog,,,,tb_half_adder,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+S:/Verilog/2x1_mux behavioral/2x1_mux behavioral.srcs/sim_1/new/tb_mux_2x1.v,1756198279,verilog,,,,tb_mux_2x1,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+S:/Verilog/2x1_mux behavioral/2x1_mux behavioral.srcs/sources_1/new/full_adder.v,1756201002,verilog,,S:/Verilog/2x1_mux behavioral/2x1_mux behavioral.srcs/sources_1/new/half_adder.v,,full_adder,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+S:/Verilog/2x1_mux behavioral/2x1_mux behavioral.srcs/sources_1/new/half_adder.v,1756201002,verilog,,S:/Verilog/2x1_mux behavioral/2x1_mux behavioral.srcs/sim_1/new/tb_full_adder.v,,half_adder,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+S:/Verilog/2x1_mux behavioral/2x1_mux behavioral.srcs/sources_1/new/mux_2x1.v,1756197927,verilog,,S:/Verilog/2x1_mux behavioral/2x1_mux behavioral.srcs/sim_1/new/tb_mux_2x1.v,,mux_2x1,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
